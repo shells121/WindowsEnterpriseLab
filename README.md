@@ -186,14 +186,25 @@ This demonstrates how Windows administrators can monitor authentication and acce
 
 ## Screenshots
 
-Included screenshots:
+### Active Directory Users
 
-* Active Directory Users
-* Legal Logon Message (Group Policy)
-* Security Groups
-* Shared Folder Permissions
-* NTFS Permission Example
-* Event Viewer Security Log
+![Active Directory](images/Users.png)
+
+### Legal Logon Message (Group Policy)
+![Legal Logon](images/LegalLogonMessage.png)
+
+### Security Groups
+![Security Groups](images/Groups.png)
+
+### Shared Folder Permissions
+![Folder Permissions 1](images/EngineeringFolderPermissions.png)
+![Folder Permissions 2](images/FinanceFolderPermissions.png)
+
+### NTFS Permission Example
+![NTFS Permission](images/NTFS_Permissions_Example.png)
+
+### Event Viewer Security Log
+![Event Viewer](images/EventViewerExample.PNG)
 
 ---
 
