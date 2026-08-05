@@ -43,22 +43,23 @@ Example network configuration:
 | CLIENT01 | 192.168.10.20 |
 
 Full network diagram:
-                Internet (Optional)
-                      │
-               ───────────────
-                      │
-                 VirtualBox
-               Internal Network
-                      │
-        ┌─────────────┴─────────────┐
-        │                           │
-+--------------------+     +---------------------+
-| DC01               |     | CLIENT01            |
-| Windows Server     |     | Windows 11          |
-| Active Directory   |     | Domain Joined       |
-| DNS                |     | Alice / Bob Login   |
-| File Shares        |     +---------------------+
-+--------------------+
+    
+                    Internet (Optional)
+                          │
+                   ───────────────
+                          │
+                     VirtualBox
+                   Internal Network
+                          │
+            ┌─────────────┴─────────────┐
+            │                           │
+    +--------------------+     +---------------------+
+    | DC01               |     | CLIENT01            |
+    | Windows Server     |     | Windows 11          |
+    | Active Directory   |     | Domain Joined       |
+    | DNS                |     | Alice / Bob Login   |
+    | File Shares        |     +---------------------+
+    +--------------------+
 
 ---
 
