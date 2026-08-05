@@ -53,12 +53,12 @@ Full network diagram:
                           │
             ┌─────────────┴─────────────┐
             │                           │
-    +--------------------+     +---------------------+
-    | DC01               |     | CLIENT01            |
-    | Windows Server     |     | Windows 11          |
-    | Active Directory   |     | Domain Joined       |
-    | DNS                |     | Alice / Bob Login   |
-    | File Shares        |     +---------------------+
+    +--------------------+     +---------------------------+
+    | DC01               |     | CLIENT01                  |
+    | Windows Server     |     | Windows 11                |
+    | Active Directory   |     | Domain Joined             |
+    | DNS                |     | shells1 / shells2 Login   |
+    | File Shares        |     +---------------------------+
     +--------------------+
 
 ---
