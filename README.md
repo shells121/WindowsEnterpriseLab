@@ -188,11 +188,11 @@ This demonstrates how Windows administrators can monitor authentication and acce
 
 Included screenshots:
 
-* Active Directory Users and Computers
-* Organizational Units
-* User Accounts
+* Active Directory Users
+* Legal Logon Message (Group Policy)
 * Security Groups
 * Shared Folder Permissions
+* NTFS Permission Example
 * Event Viewer Security Log
 
 ---
